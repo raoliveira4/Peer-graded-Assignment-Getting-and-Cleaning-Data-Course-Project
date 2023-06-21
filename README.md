@@ -1,8 +1,6 @@
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 
 Author: Renan Oliveira
-Blog Post: Getting and Cleaning Data Review
-Data Zip File Location: UC Irvine Repo
 
 Goals:
 
