@@ -1,4 +1,4 @@
-![image](https://github.com/raoliveira4/Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project/assets/134617111/b7b0bec1-b1ad-4bc7-87e5-c3496ffe0e52)# Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
+# Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 
 Author: Renan Oliveira
 Blog Post: Getting and Cleaning Data Review
